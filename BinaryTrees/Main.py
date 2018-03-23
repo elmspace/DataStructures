@@ -6,3 +6,4 @@ from BinaryTree import Node;
 root = Node("root");
 root.left = Node("left child");
 root.right = Node("right child");
+
